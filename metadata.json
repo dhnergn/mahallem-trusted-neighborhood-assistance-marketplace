@@ -1,0 +1,6 @@
+{
+  "name": "Mahallem - Trusted Neighborhood Assistance Marketplace",
+  "description": "A privacy-first, secure local assistance marketplace connecting verified neighbors for peer deliveries, small favors, and trusted community support.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
